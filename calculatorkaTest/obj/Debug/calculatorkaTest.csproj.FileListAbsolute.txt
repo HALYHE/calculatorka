@@ -1,0 +1,16 @@
+C:\Users\mczhe\Desktop\wpf\Sharp\calculatorka\calculatorkaTest\bin\Debug\calculatorkaTest.dll
+C:\Users\mczhe\Desktop\wpf\Sharp\calculatorka\calculatorkaTest\bin\Debug\calculatorkaTest.pdb
+C:\Users\mczhe\Desktop\wpf\Sharp\calculatorka\calculatorkaTest\bin\Debug\calculatorka.exe
+C:\Users\mczhe\Desktop\wpf\Sharp\calculatorka\calculatorkaTest\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\mczhe\Desktop\wpf\Sharp\calculatorka\calculatorkaTest\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\mczhe\Desktop\wpf\Sharp\calculatorka\calculatorkaTest\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\mczhe\Desktop\wpf\Sharp\calculatorka\calculatorkaTest\bin\Debug\Microsoft.Analytics.UnitTest.dll
+C:\Users\mczhe\Desktop\wpf\Sharp\calculatorka\calculatorkaTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mczhe\Desktop\wpf\Sharp\calculatorka\calculatorkaTest\bin\Debug\calculatorka.pdb
+C:\Users\mczhe\Desktop\wpf\Sharp\calculatorka\calculatorkaTest\bin\Debug\calculatorka.exe.config
+C:\Users\mczhe\Desktop\wpf\Sharp\calculatorka\calculatorkaTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\mczhe\Desktop\wpf\Sharp\calculatorka\calculatorkaTest\obj\Debug\calculatorkaTest.csproj.AssemblyReference.cache
+C:\Users\mczhe\Desktop\wpf\Sharp\calculatorka\calculatorkaTest\obj\Debug\calculatorkaTest.csproj.CoreCompileInputs.cache
+C:\Users\mczhe\Desktop\wpf\Sharp\calculatorka\calculatorkaTest\obj\Debug\calculat.89DB2978.Up2Date
+C:\Users\mczhe\Desktop\wpf\Sharp\calculatorka\calculatorkaTest\obj\Debug\calculatorkaTest.dll
+C:\Users\mczhe\Desktop\wpf\Sharp\calculatorka\calculatorkaTest\obj\Debug\calculatorkaTest.pdb
